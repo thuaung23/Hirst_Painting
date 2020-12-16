@@ -2,7 +2,7 @@
 # Written on: Dec 15, 2020
 
 """
-You can draw any type you line by tweaking position, distance and direction.
+You can draw any type you like by tweaking position, distance and direction.
 """
 
 import colorgram
